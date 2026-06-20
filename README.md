@@ -34,7 +34,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/devindi-wickramasinghe-6992a3289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DevindiEngineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:devindicampus@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=DevindiEngineer&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
 </p>
 
