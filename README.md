@@ -133,10 +133,28 @@ $ cat profile.json
 
 ---
 
-## 🚀 Projects
-- 🔢 Calculator
-- 🧮 Number Converter System  
-- 💰 Salary Information System 
-- 🧾 Bill Printing System
-- ☎️ Contact Management System  
-- 🤖 AI & ML Mini Projects
+<h2 align="left">📊 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevindiEngineer&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" />
+</p>
+
+---
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevindiEngineer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center"><i>✨ Building my dream, one commit at a time. 🌿</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevindiEngineer&style=flat-square&color=22c55e&label=Thanks+for+visiting" />
+</p>
