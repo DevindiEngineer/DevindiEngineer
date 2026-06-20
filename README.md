@@ -132,7 +132,7 @@ $ cat profile.json
 
 
 ## 🚀 Projects
-- 🔢 iCalc Number Converter System  
+- 🔢 Calculator & Number Converter System  
 - 💰 Salary Information System 
 - 🧾 Bill Printing System
 - ☎️ Contact Management System  
