@@ -1,7 +1,5 @@
 <!-- ========= HEADER ========= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:A855F7&height=200&section=header&text=Devindi%20Wickramasinghe&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20Aspiring%20Software%20Engineer%20%C2%B7%20AI%20%26%20Coding%20Lover&descSize=16&descAlignY=60" width="100%" />
-
 ██████╗  ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗ ██████╗  ██╗
 ██╔══██╗ ██╔════╝ ██║   ██║ ██║ ████╗  ██║ ██╔══██╗ ██║
 ██║  ██║ █████╗   ██║   ██║ ██║ ██╔██╗ ██║ ██║  ██║ ██║
