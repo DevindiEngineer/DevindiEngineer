@@ -1,9 +1,22 @@
-# Hi! I'm Devindi
+``
+$ whoami
+> devindi.wickramsinghe
 
-💻 Software Engineering Student  
-🤖 Exploring Artificial Intelligence & Machine Learning  
-🚀 Passionate about Full Stack Development  
-
+$ cat profile.json
+{
+  "location": "Sri Lanka",
+  "role": "Software Engineering Student",
+  "interests": [
+    "AI",
+    "Machine Learning",
+    "Full Stack Development",
+    "Frontend",
+    "Backend",
+    "Data Science"
+  ],
+  "goal": "Build real-world full stack and AI-driven applications"
+}
+``
 ## 🤖 Artificial Intelligence & Machine Learning
 
 Learning: Supervised, Unsupervised, Reinforcement  
