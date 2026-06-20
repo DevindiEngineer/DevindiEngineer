@@ -61,7 +61,7 @@ $ cat profile.json
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge&logo=probot&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-9333EA?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks_(ANN)-7C3AED?style=for-the-badge)
@@ -72,7 +72,7 @@ $ cat profile.json
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
-### 📊 Data Science & Visualization
+## 📊 Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
