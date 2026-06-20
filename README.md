@@ -54,9 +54,14 @@ $ cat profile.json
 
 <h2 align="left">🛠️ Tech Arsenal</h2>
 
+## 🧩 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+
 
 ### 🤖 Artificial Intelligence & Machine Learning
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge&logo=probot&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-9333EA?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks_(ANN)-7C3AED?style=for-the-badge)
@@ -74,19 +79,6 @@ $ cat profile.json
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🧪 Tools & Libraries
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
-
-
-## 🧩 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
 
 ## 🎨 Frontend
