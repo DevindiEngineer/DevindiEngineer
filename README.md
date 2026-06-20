@@ -1,10 +1,8 @@
-# Hi 👋 I'm Devindi
+# Hi! I'm Devindi
 
 💻 Software Engineering Student  
 🤖 Exploring Artificial Intelligence & Machine Learning  
 🚀 Passionate about Full Stack Development  
-
----
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
