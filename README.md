@@ -1,5 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-
+<div align="center">
+<pre>
 ```
 ██████╗  ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗ ██████╗  ██╗
 ██╔══██╗ ██╔════╝ ██║   ██║ ██║ ████╗  ██║ ██╔══██╗ ██║
@@ -17,6 +18,8 @@
 ╚███╔███╔╝ ██║ ╚██████╗ ██║  ██╗ ██║  ██║ ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ███████║ ██║ ██║ ╚████║ ╚██████╔╝ ██║  ██║ ███████╗
  ╚══╝╚══╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝ ╚═╝  ╚═══╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝
 ```
+</pre>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aspiring_Software_Engineer-0EA5E9?style=for-the-badge" />
@@ -31,7 +34,7 @@
 <!-- ===================== SOCIAL BADGES ===================== -->
 
 <p align="center">
-  <a href="[www.linkedin.com/in/devindi-wickramasinghe-6992a3289]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devindi-wickramasinghe-6992a3289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DevindiEngineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:devindicampus@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=DevindiEngineer&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
@@ -47,13 +50,13 @@ $ whoami
 
 $ cat profile.json
 {
-  "location"  : "Colombo, Sri Lanka",
-  "role"      : "Sales Operations Analyst  ->  Software Engineer",
-  "learning"  : ["Full-Stack (Java, Spring Boot, Angular)",
-                 "Data Science & ML (Python)"],
-  "stack"     : ["Java", "Python", "SQL", "scikit-learn", "TensorFlow"],
-  "mission"   : "Turn data into decisions, ideas into apps.",
-  "fun_fact"  : "I speak both SQL and sales."
+  "location": "Colombo, Sri Lanka",
+  "role": "Student -> Software Engineer",
+  "stack": ["Java", "Python", "SQL", "JavaScript"],
+  "learning": ["Full Stack Development", "AI & ML", "Data Science"],
+  "goal": "Build real-world full stack and AI-driven applications 🌿",
+  "off_duty": ["Travelling ✈️", "Foodie 🍜", "Fashion lover 👗"],
+  "fun_fact": "Food fuels my code, travel feeds my soul - chasing a calm, balanced life."
 }
 ```
 
@@ -133,8 +136,9 @@ $ cat profile.json
 
 
 ## 🚀 Projects
-- 🔢 Calculator & Number Converter System  
+- 🔢 Calculator
+- 🧮 Number Converter System  
 - 💰 Salary Information System 
 - 🧾 Bill Printing System
 - ☎️ Contact Management System  
-- 🤖 Machine Learning Mini Projects
+- 🤖 AI & ML Mini Projects
