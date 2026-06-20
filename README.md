@@ -147,12 +147,6 @@ $ cat profile.json
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevindiEngineer&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" />
-</p>
-<h2 align="left">📊 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevindiEngineer&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" />
-</p>
 
 ---
 
