@@ -132,7 +132,22 @@ $ cat profile.json
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevindiEngineer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevindiEngineer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevindiEngineer&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevindiEngineer&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" />
+</p>
 <h2 align="left">📊 Contribution Graph</h2>
 
 <p align="center">
