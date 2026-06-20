@@ -1,28 +1,76 @@
-``
+<!-- ===================== HEADER ===================== -->
+
+```
+██████╗  ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗ ██████╗  ██╗
+██╔══██╗ ██╔════╝ ██║   ██║ ██║ ████╗  ██║ ██╔══██╗ ██║
+██║  ██║ █████╗   ██║   ██║ ██║ ██╔██╗ ██║ ██║  ██║ ██║
+██║  ██║ ██╔══╝   ╚██╗ ██╔╝ ██║ ██║╚██╗██║ ██║  ██║ ██║
+██████╔╝ ███████╗  ╚████╔╝  ██║ ██║ ╚████║ ██████╔╝ ██║
+╚═════╝  ╚══════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer_in_the_Making-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science_Enthusiast-22C55E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Java+%C2%B7+Python+%C2%B7+Machine+Learning;Building+full-stack+apps+%26+ML+models;Always+learning%2C+always+shipping." alt="Typing SVG" />
+</p>
+
+<!-- ===================== SOCIAL BADGES ===================== -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DevindiEngineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DevindiEngineer&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
+</p>
+
+---
+
+## 🧘 About Me
+
+```bash
 $ whoami
-> devindi.wickramsinghe
+> devindi-wickramasinghe
 
 $ cat profile.json
 {
-  "location": "Sri Lanka",
-  "role": "Software Engineering Student",
-  "interests": [
-    "AI",
-    "Machine Learning",
-    "Full Stack Development",
-    "Frontend",
-    "Backend",
-    "Data Science"
-  ],
-  "goal": "Build real-world full stack and AI-driven applications"
+  "location"  : "Colombo, Sri Lanka",
+  "role"      : "Sales Operations Analyst  ->  Software Engineer",
+  "learning"  : ["Full-Stack (Java, Spring Boot, Angular)",
+                 "Data Science & ML (Python)"],
+  "stack"     : ["Java", "Python", "SQL", "scikit-learn", "TensorFlow"],
+  "mission"   : "Turn data into decisions, ideas into apps.",
+  "fun_fact"  : "I speak both SQL and sales."
 }
-``
-## 🤖 Artificial Intelligence & Machine Learning
+```
 
-Learning: Supervised, Unsupervised, Reinforcement  
-Algorithms: Regression, Trees, Random Forest, SVM  
-Deep Learning: CNN, RNN  
-Tools: NumPy, Pandas, Scikit-learn, Keras  
+---
+
+<!-- ===================== TECH ARSENAL ===================== -->
+
+<h2 align="left">🛠️ Tech Arsenal</h2>
+``
+### 🤖 Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge&logo=probot&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-9333EA?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks_(ANN)-7C3AED?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-6D28D9?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-5B21B6?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 📊 Data Science & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🧪 Tools & Libraries
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
@@ -82,9 +130,7 @@ Tools: NumPy, Pandas, Scikit-learn, Keras
 
 ## 🚀 Projects
 - 🔢 iCalc Number Converter System  
-- 💰 Salary Information System  
-- 🧾 Bill Printing System  
+- 💰 Salary Information System 
+- 🧾 Bill Printing System
+- ☎️ Contact Management System  
 - 🤖 Machine Learning Mini Projects
-  
-- Advanced Machine Learning  
-- Backend Development with Spring Boot  
