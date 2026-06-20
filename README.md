@@ -55,6 +55,7 @@ $ cat profile.json
 <h2 align="left">🛠️ Tech Arsenal</h2>
 ``
 ### 🤖 Artificial Intelligence & Machine Learning
+
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge&logo=probot&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-9333EA?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks_(ANN)-7C3AED?style=for-the-badge)
@@ -63,6 +64,7 @@ $ cat profile.json
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ### 📊 Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
