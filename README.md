@@ -19,12 +19,13 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer_in_the_Making-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Science_Enthusiast-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aspiring_Software_Engineer-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_&_Coding_Lover-A855F7?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Java+%C2%B7+Python+%C2%B7+Machine+Learning;Building+full-stack+apps+%26+ML+models;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;A+student+who+loves+AI+%26+coding;Learning+today%2C+building+tomorrow." alt="Typing SVG" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
