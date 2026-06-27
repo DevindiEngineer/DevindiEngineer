@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/earth.gif" width="250" alt="Rotating Earth"/>
-</p>
-
-<h2 align="center">Hi 👽 I'm YourName from the Earth 🌍</h2>
 <!-- ========= HEADER ========= -->
 
 ```
