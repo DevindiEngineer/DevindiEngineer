@@ -58,7 +58,7 @@ $ cat profile.json
 
 **🧩 Languages**
 
-\![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java) \![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) \![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) \![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql) \![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **🤖 Artificial Intelligence & Machine Learning**
 
