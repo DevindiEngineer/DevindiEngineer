@@ -94,16 +94,6 @@ $ cat profile.json
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [Salary-Information-System-Java](https://github.com/DevindiEngineer/Salary-Information-System-Java) | Console app for the iCM120 PRF module — calculates employee income tax, annual bonus, and loan eligibility. | `Java` |
-| [Java-practise-Contact-Book](https://github.com/DevindiEngineer/Java-practise-Contact-Book) | A simple contact-book app built to practise Java fundamentals and console I/O. | `Java` |
-| [Internet-Technologies](https://github.com/DevindiEngineer?tab=repositories&q=Internet-Technologies) | Coursework building responsive web pages with semantic HTML5 and CSS3. | `HTML` `CSS` |
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
