@@ -144,10 +144,17 @@ $ cat profile.json
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevindiEngineer&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center"> Contribution Graph</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevindiEngineer&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff" width="100%" />
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevindiEngineer/DevindiEngineer/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
