@@ -46,8 +46,8 @@ $ cat profile.json
   "role": "Student -> Software Engineer",
   "stack": ["Java", "Python", "SQL", "JavaScript"],
   "learning": ["Full Stack Development", "AI & ML", "Data Science"],
-  "goal": "Build real-world full stack and AI-driven applications 🌿",
-  "off_duty": ["Travelling ✈️", "Foodie 🍜", "Fashion lover 👗"],
+  "goal": "Build real-world full stack and AI-driven applications ",
+  "off_duty": ["Travelling ", "Foodie ", "Fashion lover "],
   "fun_fact": "Food fuels my code, travel feeds my soul - chasing a calm, balanced life."
 }
 ```
