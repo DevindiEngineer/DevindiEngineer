@@ -88,10 +88,13 @@ $ cat profile.json
 
 ![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge) ![DSA](https://img.shields.io/badge/DSA-green?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-orange?style=for-the-badge) ![MVC](https://img.shields.io/badge/MVC-purple?style=for-the-badge) ![UML](https://img.shields.io/badge/UML-grey?style=for-the-badge)
 
-**Tools**
+**Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Code Editors / IDEs**
+
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
