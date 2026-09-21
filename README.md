@@ -91,7 +91,9 @@ $ cat profile.json
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-> **Concepts:** OOP · Data Structures & Algorithms · Design Patterns · MVC · UML · Machine Learning · Deep Learning (ANN, CNN, RNN)
+**Core Concepts**
+
+\![OOP](https://img.shields.io/badge/OOP-1E88E5?style=for-the-badge&logo=openjdk&logoColor=white) \![DSA](https://img.shields.io/badge/DSA-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white) \![Design Patterns](https://img.shields.io/badge/Design_Patterns-EF6C00?style=for-the-badge&logo=diagramsdotnet&logoColor=white) \![MVC](https://img.shields.io/badge/MVC-6A1B9A?style=for-the-badge&logo=spring&logoColor=white) \![UML](https://img.shields.io/badge/UML-546E7A?style=for-the-badge&logo=diagramsdotnet&logoColor=white) \![Machine Learning](https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge&logo=probot&logoColor=white) \![Deep Learning](https://img.shields.io/badge/Deep_Learning-9333EA?style=for-the-badge&logo=pytorch&logoColor=white) \![ANN](https://img.shields.io/badge/ANN-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white) \![CNN](https://img.shields.io/badge/CNN-6D28D9?style=for-the-badge&logo=keras&logoColor=white) \![RNN](https://img.shields.io/badge/RNN-5B21B6?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
