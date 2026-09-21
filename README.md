@@ -83,6 +83,22 @@ $ cat profile.json
 
 <img src="https://skillicons.dev/icons?i=aws" height="48" /> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" /> <b>AWS</b>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40" /> <b>Docker</b>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" /> <b>Linux</b>
+</p>
+
+\![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGOTkwMCI+PHBhdGggZD0iTTE5LjM1IDEwLjA0QTcuNDkgNy40OSAwIDAgMCAxMiA0QzkuMTEgNCA2LjYgNS42NCA1LjM1IDguMDRBNS45OTQgNS45OTQgMCAwIDAgMCAxNGMwIDMuMzEgMi42OSA2IDYgNmgxM2MyLjc2IDAgNS0yLjI0IDUtNSAwLTIuNjQtMi4wNS00Ljc4LTQuNjUtNC45NnoiLz48L3N2Zz4=)
+
+\![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTkuNCAxNi42IDQuOCAxMmw0LjYtNC42TDggNmwtNiA2IDYgNnptNS4yIDAgNC42LTQuNi00LjYtNC42TDE2IDZsNiA2LTYgNnoiLz48L3N2Zz4=)
+
+\![JavaFX](https://img.shields.io/badge/JavaFX-E76F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTE4IDhoLTJWNUg0djlhNCA0IDAgMCAwIDQgNGg0YTQgNCAwIDAgMCA0LTR2LTFoMmEzIDMgMCAwIDAgMC02em0wIDRoLTJ2LTJoMmExIDEgMCAwIDEgMCAyek0yIDIwaDE2djJIMnoiLz48L3N2Zz4=)
+
 **Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
