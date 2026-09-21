@@ -81,6 +81,10 @@ $ cat profile.json
 
 **DevOps & Cloud**
 
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,maven" height="48" />
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=232F3E) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 **Version Control**
